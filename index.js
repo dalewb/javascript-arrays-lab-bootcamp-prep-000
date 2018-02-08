@@ -1,4 +1,2 @@
-
-// const app = "I don't do much."
-
+const app = "I don't do much." //You are a CONSTANT disappointment 
 
